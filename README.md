@@ -19,6 +19,8 @@ hashcat -a 0 -m 0 hashes wordlist -r rule2 -o cracked
 
 I do not offer wordlist. Use your own!
 
+Options do -a parameter:
+
        0 = MD5
        10 = md5($pass.$salt)
        20 = md5($salt.$pass)
