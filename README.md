@@ -17,7 +17,7 @@ hashcat -a 0 -m 0 hashes wordlist -r rule1 -o cracked
 Agressive:
 hashcat -a 0 -m 0 hashes wordlist -r rule2 -o cracked
 
-I do not offer wordlist. Use your own!
+I do not offer a good wordlist. Use your own, look for a better/bigger one!
 
 Options do -a parameter:
 
